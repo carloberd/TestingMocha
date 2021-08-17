@@ -1,0 +1,17 @@
+{
+  "name": "testingmocha",
+  "version": "1.0.0",
+  "description": "first test with Mocha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Carlo",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
